@@ -1,0 +1,47 @@
+commit c1aaab38ce2153bbfbe69de44f3c3ba1706deb67
+Author: Noah Sadow <nsadow@mymail.mines.edu>
+Date:   Tue Sep 29 12:17:02 2015 -0600
+
+    Flat Eyes
+
+commit 2fa42eb12d60f14bbec7e69a1798178ee1d38042
+Author: Charles Widdicombe <cwiddico@mymail,mines.edu>
+Date:   Tue Sep 29 12:14:23 2015 -0600
+
+    made eyes bigger
+
+commit 49a4b177a529b13e1d6d6e943a0644a875e5b9a8
+Author: Noah Sadow <nsadow@mymail.mines.edu>
+Date:   Tue Sep 29 12:12:51 2015 -0600
+
+    Louder kitteh
+
+commit b967e60086edc2113924f626e0503ab3b0fa4eab
+Author: Charles Widdicombe <cwiddico@mymail,mines.edu>
+Date:   Tue Sep 29 12:10:08 2015 -0600
+
+    made head bigger
+
+commit 20cffb3de703b2789823fa61970a54359e5605c1
+Author: Noah Sadow <nsadow@mymail.mines.edu>
+Date:   Tue Sep 29 12:07:57 2015 -0600
+
+    Bigger Mouth
+
+commit 2b57e75408ca453ceee2fbb778c936a16c2ed445
+Author: Charles Widdicombe <cwiddico@mymail,mines.edu>
+Date:   Tue Sep 29 12:04:32 2015 -0600
+
+    messed with cat
+
+commit 9d4322e93e80536d4d870bc378c0affaf64aea64
+Author: Noah Sadow <nsadow@mymail.mines.edu>
+Date:   Tue Sep 29 11:44:29 2015 -0600
+
+    Added Kitteh
+
+commit 572bc07a81dd3f984e75630e36c6cf477ec52ae3
+Author: Noah Sadow <nsadow@mymail.mines.edu>
+Date:   Tue Sep 29 11:38:44 2015 -0600
+
+    initial commit
